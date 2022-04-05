@@ -1,0 +1,8 @@
+:host {
+  display: block;
+}
+
+.completed {
+  text-decoration-line: line-through;
+  color: #777;
+}
